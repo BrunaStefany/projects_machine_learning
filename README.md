@@ -18,8 +18,4 @@ O objetivo é prever quais passageiros sobreviveram ao naufrágio do Titanic com
 5. Geração do arquivo `submission.csv`
 
 ## 🧠 Resultado
-Acurácia média: **X%** (pode atualizar quando rodar o modelo completo).
-
----
-
-💬 *Desenvolvido por Bruna Stefany como parte do aprendizado em Ciência de Dados.*
+Estamos desenvolvendo
